@@ -1,0 +1,6 @@
+Configuration Result:
+[Success] Name Znachor.WebApiTopShelfService
+[Success] Description Sample Web API Windows service
+[Success] ServiceName Znachor.WebApiTopShelfService
+Topshelf v4.1.0.172, .NET Framework v4.0.30319.42000
+The Znachor.WebApiTopShelfService service can only be installed as an administrator
